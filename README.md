@@ -19,6 +19,9 @@ To simulate and process retail sales data using an ETL (Extract, Transform, Load
 - **Google Colab** – Cloud-based Python environment  
 
 ---
-
 ## 📁 Project Structure
 
+📦 retail-data-pipeline/
+├── retail_sales_pipeline.ipynb # Main Colab notebook
+├── daily_sales.csv # Simulated retail data 
+├── README.md # Project documentation
