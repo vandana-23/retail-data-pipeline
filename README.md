@@ -25,3 +25,6 @@ To simulate and process retail sales data using an ETL (Extract, Transform, Load
 ├── retail_sales_pipeline.ipynb # Main Colab notebook
 ├── daily_sales.csv # Simulated retail data 
 ├── README.md # Project documentation
+
+-----
+##project link:- https://github.com/vandana-23/retail-data-pipeline/blob/main/retail_data_pipeline.ipynb
